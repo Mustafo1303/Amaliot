@@ -1,0 +1,73 @@
+.one{
+    border: 3px solid red;
+    text-align: center;
+    background-color: rgb(211, 211, 245);
+    border-radius: 20px;
+}
+.twotwo{
+    color: red;
+}
+.three{
+    color: green;
+}
+.four{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+.five{
+    background-color: yellow;
+    color: green;
+}
+.five{
+    color: green;
+    text-align: center;
+}
+.six{
+    color: green;
+}
+.style{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+.button{
+    background-color: rgb(145, 145, 249);
+    width: 200px;
+    height: 29px;
+    color: white;
+}
+.widht{
+        margin-left: 1000px;
+        font-size: 1000px;
+}
+table{
+    border: 2px solid white;
+}
+.green{
+    background-color: green;
+    color: white;
+    text-align: center;
+    
+
+}
+.blue{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    
+}
+.red{
+    background-color: red;
+    color: white;
+    text-align: center;
+   
+}
+.black{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.hayvon{
+    color: green;
+}
